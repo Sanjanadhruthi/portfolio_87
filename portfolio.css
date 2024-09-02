@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('https://e0.pxfuel.com/wallpapers/119/436/desktop-wallpaper-black-background-pics.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+header {
+    text-align: left;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+}
+
+header img.profile-photo {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-size: 1em;
+}
+
+section {
+    padding: 10px;
+    margin: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    color: #ff7e5f;
+    margin-top: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: none;
+    color: white;
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+a {
+    color: #ff7e5f;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
